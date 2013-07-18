@@ -13,3 +13,5 @@ I do not recommend that you actually use the strategies created for actual inves
 The example was designed to run with daily stock closing price data.
 Daily stock closing data is not included. 
 You may obtain such data from several sources at a reasonable price.
+
+For example: eoddata.com
